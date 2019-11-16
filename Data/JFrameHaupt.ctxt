@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JFrameHaupt()
+comment0.text=\r\n\ Konstruktor\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\r\n\ ActionPerformed\r\n
+comment2.params=event
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.text=\r\n\ WindowListener\ Methoden\r\n
+comment3.params=event
+comment3.target=void\ windowIconified(java.awt.event.WindowEvent)
+comment4.params=event
+comment4.target=void\ windowOpened(java.awt.event.WindowEvent)
+comment5.params=event
+comment5.target=void\ windowClosed(java.awt.event.WindowEvent)
+comment6.params=event
+comment6.target=void\ windowActivated(java.awt.event.WindowEvent)
+comment7.params=event
+comment7.target=void\ windowDeiconified(java.awt.event.WindowEvent)
+comment8.params=event
+comment8.target=void\ windowDeactivated(java.awt.event.WindowEvent)
+numComments=9
